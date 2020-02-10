@@ -45,7 +45,7 @@ class Directory extends React.Component {
             ]
         }
     }
-
+    // ...otherSectionProps used instead title={title} size={size} imageUrl={imageUrl} linkUrl={linkUrl}
     render(){
         return(
             <div className="directory-menu">
